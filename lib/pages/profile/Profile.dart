@@ -58,7 +58,7 @@ class InfoItem extends StatelessWidget {
           icon,
           Text(
             text,
-            style: 20,
+            style: Theme.of(context).primaryTextTheme.display1,
           )
         ]
     );

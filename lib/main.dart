@@ -49,8 +49,12 @@ class _MyAppState extends State<MyApp> {
                     fontSize: 28,
                     color: Colors.white,
                     fontWeight: FontWeight.w300
-                  )
-
+                  ),
+              display1 : TextStyle(
+                    fontSize: 28,
+                    color: Colors.white,
+                    fontWeight: FontWeight.w300
+                  ),
             ),
         //primarySwatch: Colors.blue,
         buttonTheme: ButtonThemeData(
